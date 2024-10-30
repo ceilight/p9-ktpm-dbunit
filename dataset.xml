@@ -1,0 +1,6 @@
+<dataset>
+    <Student id="1" name="Alice" gpa="3.8" credits="45" />
+    <Student id="2" name="Bob" gpa="3.5" credits="60" />
+    <Student id="3" name="Carol" gpa="3.9" credits="40" />
+    <Student id="4" name="Dave" gpa="3.0" credits="50" />
+</dataset>
